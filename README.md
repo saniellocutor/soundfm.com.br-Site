@@ -3,7 +3,7 @@
 ##Sound FM código app site para sua radio ### FM/AM/WEB Rádio
 
 ### Play rádio stream screen
-| <img src="https://soundfm.com.br/img/device_1.jpg" width="200"/>| <img src="https://soundfm.com.br/img/device_2.jpg" width="200"/>| <img src="https://soundfm.com.br" width="200"/>|<img src="https://soundfm.com.br" width="200"/>|
+| <img src="https://soundfm.com.br/assets/img/github/device_1.jpg" width="200"/>| <img src="https://soundfm.com.br/assets/img/github/device_2.jpg" width="200"/>| <img src="https://soundfm.com.br" width="200"/>|<img src="https://soundfm.com.br" width="200"/>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Home Web| Menu Web | Home Device| Menu Device |
 
